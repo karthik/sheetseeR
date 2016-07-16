@@ -1,6 +1,6 @@
 # sheetseeR
 
-This packages provides a quick and easy interface to [`Sheetsee js`](http://jlord.github.io/sheetsee.js/), _a client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables, maps and charts._. The goal is provide a super easy interface to uploading data into Google docs (or downloading and updating existing datasets) and generating a sheetsee js page with maps, a data browser, or interactive figures.
+This packages provides a quick and easy interface to [`Sheetsee js`](http://jlord.github.io/sheetsee.js/), _a client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables, maps and charts_. The goal is provide a super-easy interface to uploading data into Google docs (or downloading and updating existing datasets) and generating a sheetsee js page with maps, a data browser, or interactive figures.
 
 Package is in alpha and not ready to install.
 
@@ -13,7 +13,7 @@ devtools::install_github("ropensci/sheetseeR")
 
 __Keys__
 
-* First go to `googole.com/security/`, sign in
+* First go to `google.com/security/`, sign in
 * Go to app specific passwords
 * Create a new one (name doesn't matter)
 * Then return to your `.rprofile` and add:  
